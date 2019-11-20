@@ -57,12 +57,12 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8080/day16_2/AddServlet",
+							"raw": "http://localhost:8888/day16_2/AddServlet",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8080",
+							"port": "8888",
 							"path": [
 								"day16_2",
 								"AddServlet"
@@ -97,12 +97,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8080/day16_2/delete?sid=12",
+							"raw": "http://localhost:8888/day16_2/delete?sid=12",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8080",
+							"port": "8888",
 							"path": [
 								"day16_2",
 								"delete"
@@ -175,12 +175,12 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8080/day16_2/UpdateServlet",
+							"raw": "http://localhost:8888/day16_2/UpdateServlet",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8080",
+							"port": "8888",
 							"path": [
 								"day16_2",
 								"UpdateServlet"
